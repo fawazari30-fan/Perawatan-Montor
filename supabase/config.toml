@@ -1,0 +1,2 @@
+[functions.send-maintenance-reminders]
+verify_jwt = false
